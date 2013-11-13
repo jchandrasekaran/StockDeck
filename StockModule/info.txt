@@ -1,0 +1,17 @@
+- Mysql credential: root, root
+
+- user ids in the user table: user3, password
+
+- TODO: while creating user accounts create entry for user stats and pref
+
+- TODO: Add logout button
+
+- TODO: Proper navigation needed between pages
+
+- TODO: User profile with stats, standing etc.
+
+- TODO: Add sentiment counts to the article_data table for faster lookup
+
+- Delete stocks from portfolio
+
+- gout button at home screen
